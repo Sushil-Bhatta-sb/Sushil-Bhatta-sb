@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Sushil Bhatta</h1>
 <h3 align="center">💡 Driven Computer Engineering Student | IOE, Thapathali Campus</h3>
-<img align="right" alt="coding" width="400" src="<img align="right" alt="coding" width="400" src="C/sss.png">
+<img align="right" alt="coding" width="400" src="sss.gif">
+
 ">
 
 - 📫 How to reach me **bhattsushil567@gmail.com**
