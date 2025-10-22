@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">
-  👋 Hi, I'm <span style="color:#3b82f6;">Sushil Bhatta</span>
+  <img src="https://camo.githubusercontent.com/8b0f5a2b5e3df09a2f3b8c0b6a3d0d1f4f1a5c6e/68747470733a2f2f636f6465722d616e696d6174696f6e2e76657263656c2e6170702f616e696d617465642d746578742f3f746578743d48692c2049276d2053757368696c204248415454412621636f6c6f723d236665616d633b2d3b" alt="Hi, I'm Sushil Bhatta"/>
 </h1>
 
 <h3 align="center">
@@ -17,12 +17,12 @@
 
 ---
 
+## 🚀 About Me  
 🎓 Computer Engineering Student at **IOE, Thapathali Campus** <br>
 💻 Passionate about **C++, Python, Machine Learning, AI, and Web Development** <br>
 💡 Driven by curiosity to **solve real-world problems using Artificial Intelligence and Machine Learning** <br>
 🧠 Constantly learning, building, and improving through hands-on projects and innovation <br>
 📫 Reach me at **bhattsushil567@gmail.com**
-
 
 ---
 
@@ -38,7 +38,9 @@
 
 ## 🧠 Languages & Tools  
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,django,vscode,html,css,cpp,c,python,pandas,js,numpy&theme=dark" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,django,vscode,html,css,cpp,c,python,pandas,js,numpy&theme=dark" />
+</p>
 
 ---
 
@@ -62,12 +64,17 @@
 ## 🎨 Fun Visuals  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.gif" width="600" alt="Matrix animation">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=150&section=header&text=Keep%20Learning%20💻&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header animation"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="500" alt="coding animation"/>
 </p>
 
 ---
 
 ## 🧩 Random Dev Quote  
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
