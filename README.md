@@ -20,7 +20,6 @@
 ## 🚀 About Me  
 🎓 Computer Engineering Student at **IOE, Thapathali Campus** <br>
 💻 Passionate about **C++, Python, Machine Learning, AI, and Web Development** <br>
-💡 Driven by curiosity to **solve real-world problems using Artificial Intelligence and Machine Learning** <br>
 🧠 Constantly learning, building, and improving through hands-on projects and innovation <br>
 📫 Reach me at **bhattsushil567@gmail.com**
 
@@ -70,19 +69,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="500" alt="coding animation"/>
 </p>
-
----
-
-## 🧩 Random Dev Quote  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## ⚡ Fun Fact  
-💬 “When I’m not coding, I’m probably debugging my dreams.”
 
 ---
 
